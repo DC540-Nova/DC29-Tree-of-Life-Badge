@@ -1,5 +1,5 @@
 # DC29 Tree Of Life Badge
-DC540 Defcon Group Tree Of Life public repo.
+DC540 Defcon Group DC29 Tree Of Life Badge public repo.
 
 <br>
 
