@@ -14,7 +14,7 @@ DC540 Defcon Group Tree Of Life public repo.
 <br>
 
 ## Information
-This is where we will provide updates, documentation and possibly alternatives, to the stock firmware for the DC540 Tree of Life badge,
+This is where we will provide updates, documentation and possibly alternatives, to the stock firmware for the DC540 Tree of Life Badge,
 released at DEFCON 29 in Las Vegas.
 
 Raw code?  Not at this time.
